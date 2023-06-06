@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" migrateIndexesAndConstraints="true" reUseTableSchema="true">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="bbaac240-1c25-42d9-8089-359474446681" />
+    <option name="reLastEntityCreationPackage" value="sql_tuning/src/main/java/com/example/sql_tu/source/entity/table" />
+    <reUseDbSnapshotConnections>
+      <dbConnection id="bbaac240-1c25-42d9-8089-359474446681" />
+    </reUseDbSnapshotConnections>
+  </component>
+</project>
