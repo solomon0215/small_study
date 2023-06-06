@@ -1,0 +1,3 @@
+[submodule "sql_tuning"]
+	path = sql_tuning
+	url = https://github.com/solomon0215/small_study/sql_tuning.git
